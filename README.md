@@ -2,7 +2,7 @@
 * [Infrastructure Automation on GCP](https://github.com/Mregojos/Infrastructure-Automation-GCP)
 * [CI/CD on GCP](https://github.com/Mregojos/CI-CD-GCP)
 * [GCP Multimodal Model Deployment](https://github.com/mregojos/GCP-LLM-Deployment)
-* [Pre-Trained Language Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
+* [Pre-Trained Large Language Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
 * [GitOps on GCP](https://github.com/Mregojos/GitOps-on-GCP)
 * [Observability on GCP](https://github.com/Mregojos/Observability-on-GCP)
   - (In progress...)
