@@ -4,7 +4,7 @@
 * [GCP Multimodal Model Deployment](https://github.com/mregojos/GCP-LLM-Deployment)
 * [GitOps on GCP](https://github.com/Mregojos/GitOps-on-GCP)
 * [Observability on GCP](https://github.com/Mregojos/Observability-on-GCP)
-* [Site Model Deployment on GCP](https://github.com/Mregojos/model-deployment)
+* [Model Deployment (Web App) on GCP](https://github.com/Mregojos/model-deployment)
   - (In progress...)
   * [SRE on GCP](https://github.com/Mregojos/SRE-on-GCP)
   * [MLOps on GCP](https://github.com/Mregojos/MLOps-GCP)
